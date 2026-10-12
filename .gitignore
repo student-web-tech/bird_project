@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+raw_dataset/
+dataset/*/
+models/*.keras
+bird_observations.db
+*.db
